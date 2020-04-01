@@ -12,7 +12,7 @@ import (
 )
 
 func question_Two(){
-  //Print message assking the question.
+  //Print a message asking a question.
   fmt.Println()
   fmt.Println("2.) I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty. What am I?")
   fmt.Println()
