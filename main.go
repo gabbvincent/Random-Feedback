@@ -36,7 +36,7 @@ func question_Two(){
  }
 
 func correct(){
-  //Make and array to hold 5 positive messages.
+  //Make an array to hold 5 positive messages.
   var a [5]string
   a[0] = "CORRECT!"
   a[1] = "THAT'S RIGHT!"
