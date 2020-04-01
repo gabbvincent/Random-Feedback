@@ -88,7 +88,7 @@ func main() {
   fmt.Scanln(&user_Answer)
   fmt.Println()
   if user_Answer == correct_Answer {
-    //If correct run this function and end the program.
+    //If correct run this function.
     correct()
     //Takes the user to the second question
     question_Two()
