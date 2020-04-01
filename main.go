@@ -52,12 +52,6 @@ func correct(){
   fmt.Println(a[i])
  }
 
-
-
-
-
-
-
 func incorrect(){
   //Make an array to hold 5 incorrect esq. messages
   var b [5]string
